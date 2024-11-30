@@ -47,12 +47,12 @@ Esta organización puede ser ajustada en el futuro para incluir nuevas secciones
 
 ## 🛠️ **Temas Cubiertos**
 El contenido y los temas que se pretenden cubrir en este espacio se irán agregando de manera gradual, a medida que se pueda recolectar y leer más información relevante. Algunos de los temas iniciales incluyen:
-- Fundamentos de redes 🌐: Se abordarán los conceptos básicos sobre redes, protocolos y cómo funcionan los servicios en la web.
-- Servidores y APIs 🚀: Exploraremos el rol de los servidores en la infraestructura digital y cómo interactúan con las APIs para la comunicación entre aplicaciones.
-- Bases de datos relacionales y no relacionales 📊: Estudiaremos las diferencias entre estas dos categorías de bases de datos, sus usos más comunes y cómo gestionarlas eficientemente.
-- Seguridad y autenticación 🔐: Se cubrirán las mejores prácticas para garantizar la seguridad en sistemas, así como métodos de autenticación y autorización de usuarios.
-- Frameworks Backend 🛠️: Nos adentraremos en el uso de frameworks populares como Spring, aprendiendo a construir aplicaciones backend robustas y escalables.
-- Principios de diseño y mejores prácticas 🧩: Analizaremos principios fundamentales de diseño de software y cómo aplicarlos para crear código limpio, mantenible y eficiente.
+- **Fundamentos de redes** 🌐: Se abordarán los conceptos básicos sobre redes, protocolos y cómo funcionan los servicios en la web.
+- **Servidores y APIs** 🚀: Exploraremos el rol de los servidores en la infraestructura digital y cómo interactúan con las APIs para la comunicación entre aplicaciones.
+- **Bases de datos relacionales y no relacionales** 📊: Estudiaremos las diferencias entre estas dos categorías de bases de datos, sus usos más comunes y cómo gestionarlas eficientemente.
+- **Seguridad y autenticación** 🔐: Se cubrirán las mejores prácticas para garantizar la seguridad en sistemas, así como métodos de autenticación y autorización de usuarios.
+- **Frameworks Backend** 🛠️: Nos adentraremos en el uso de frameworks populares como Spring, aprendiendo a construir aplicaciones backend robustas y escalables.
+- **Principios de diseño y mejores prácticas** 🧩: Analizaremos principios fundamentales de diseño de software y cómo aplicarlos para crear código limpio, mantenible y eficiente.
 
 Este esquema está sujeto a cambios conforme se profundice en la información y surjan nuevos temas de interés.
 
