@@ -13,6 +13,10 @@ Esta sección está enfocada en resolver los ejercicios del [**Roadmap de Moured
 3. [**Ejercicio de Práctica 02**](../../Etapa-1/2-Pick%20a%20Language/2.1-Learn%20the%20Fundamentals/08.2-ejercicio-de-practica-02.md): Descripción del ejercicio y resolución propuesta.
    - [*Reto02_Funciones_y_Alcance*](Reto02_Funciones_y_Alcance.java): Archivo de la resolucíon propuesta.
 
+4. [**Ejercicio de Práctica 03**](../../Etapa-1/2-Pick%20a%20Language/2.1-Learn%20the%20Fundamentals/09.1-ejercicio-de-practica-03.md): Descripción del ejercicio y resolución propuesta.
+   - [*Reto03_Estructuras_de_Datos*](Reto03_Estructuras_de_Datos.java): Archivo de la resolucíon propuesta.
+   - [*Reto03_Dificultad_Extra*](Reto03_Dificultad_Extra.java): Archivo de la resolucíon propuesta (Dificultad Extra).
+
 ---
 
 Conforme avance en los ejercicios, este índice se actualizará para incluir los nuevos desafíos completados. Si tienes alguna sugerencia o mejora para mi código, no dudes en compartirla.
