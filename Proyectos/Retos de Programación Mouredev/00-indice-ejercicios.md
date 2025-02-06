@@ -17,6 +17,10 @@ Esta sección está enfocada en resolver los ejercicios del [**Roadmap de Moured
    - [*Reto03_Estructuras_de_Datos*](Reto03_Estructuras_de_Datos.java): Archivo de la resolucíon propuesta.
    - [*Reto03_Dificultad_Extra*](Reto03_Dificultad_Extra.java): Archivo de la resolucíon propuesta (Dificultad Extra).
 
+5. [**Ejercicio de Práctica 04**](../../Etapa-1/2-Pick%20a%20Language/2.1-Learn%20the%20Fundamentals/09.2-ejercicio-de-practica-04.md): Descripción del ejercicio y resolución propuesta.
+   - [*Reto04_Cadenas_de_Caracteres*](Reto04_Cadenas_de_Caracteres.java): Archivo de la resolucíon propuesta.
+   - [*Reto04_Dificultad_Extra*](Reto04_Dificultad_Extra.java): Archivo de la resolucíon propuesta (Dificultad Extra).
+
 ---
 
 Conforme avance en los ejercicios, este índice se actualizará para incluir los nuevos desafíos completados. Si tienes alguna sugerencia o mejora para mi código, no dudes en compartirla.
