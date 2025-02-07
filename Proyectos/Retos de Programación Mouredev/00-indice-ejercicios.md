@@ -21,6 +21,9 @@ Esta sección está enfocada en resolver los ejercicios del [**Roadmap de Moured
    - [*Reto04_Cadenas_de_Caracteres*](Reto04_Cadenas_de_Caracteres.java): Archivo de la resolucíon propuesta.
    - [*Reto04_Dificultad_Extra*](Reto04_Dificultad_Extra.java): Archivo de la resolucíon propuesta (Dificultad Extra).
 
+6. [**Ejercicio de Práctica 05**](../../Etapa-1/2-Pick%20a%20Language/2.1-Learn%20the%20Fundamentals/09.3-ejercicio-de-practica-05.md): Descripción del ejercicio y resolución propuesta.
+   - [*Reto05_Valor_y_Referencia*](Reto05_Valor_y_Referencia.java): Archivo de la resolucíon propuesta.
+
 ---
 
 Conforme avance en los ejercicios, este índice se actualizará para incluir los nuevos desafíos completados. Si tienes alguna sugerencia o mejora para mi código, no dudes en compartirla.
